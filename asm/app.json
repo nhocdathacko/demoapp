@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "asm",
+    "slug": "asm",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "asm"
+}
